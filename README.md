@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Steven Figo and I'm a Information Technology undergraduate, from ITS</h2>
+<h2 align="left">Hi 😶‍🌫️! My name is Steven Figo and I'm a Information Technology undergraduate, from ITS</h2>
 
 ###
 
